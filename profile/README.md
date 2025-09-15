@@ -1,5 +1,5 @@
 ## Hi there 👋
-- This org includes open source implementations of the LSM-Tree-based key and value store engine from industry and academia.
+- This org includes open source implementations of the LSM-Tree-based key-value store engine from industry and academia.
 - If you find new work related to LSM-tree valuable, you can contact me ([zjs1224522500](https://github.com/zjs1224522500)) to include it.
 
 <!--
